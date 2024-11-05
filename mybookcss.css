@@ -1,0 +1,937 @@
+body{background-color: orange;}
+
+
+
+.title{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.year{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.dates1{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+    padding: 7px 25px 7px 25px;
+} 
+.dates2{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates3{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;     
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates4{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates5{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates6{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates7{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates8{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates9{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates10{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates11{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates12{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates13{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates14{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates15{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates16{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates17{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates18{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates19{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates20{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates21{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates22{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates23{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates24{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates25{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates26{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates27{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates28{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates29{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .dates30{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} 
+
+.komo2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1px;
+}
+
+
+.Hello{
+    padding-top: 30px;
+    text-align: center;
+    margin-top: 20px;
+}
+.hello2{
+    text-align: center;
+}
+.hello3{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.year2{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+.date1{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} 
+.date2{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date3{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date4{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date5{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date6{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date7{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date8{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date9{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date10{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date11{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date12{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date13{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date14{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date15{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date16{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date17{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date18{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date19{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date20{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date21{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date22{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date23{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date24{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date25{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date26{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date27{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date28{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date29{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .date30{
+    background-color: white;
+    text-decoration: none;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} 
+.date31{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+}
+
+
+
+
+.title3{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.year3{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.datess1{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} 
+.datess2{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess3{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess4{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess5{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess6{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess7{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess8{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess9{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess10{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess11{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess12{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess13{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess14{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess15{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess16{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess17{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess18{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess19{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess20{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess21{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+} .datess22{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+} .datess23{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+} .datess24{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess25{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess26{ 
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess27{   
+    background-color:  white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess28{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess29{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+} .datess30{  
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 7px 25px 7px 25px;
+    border-color: rgb(110, 110, 111);
+    border-style: solid;
+    border-width: 1px;
+}
+
+.g{
+    text-decoration: none;
+    color: black;
+}
+.goto10{
+    text-decoration: none;
+    color: black;
+    margin-right: 5px;
+}
+.goto12{
+    text-decoration: none;
+    color: black;
+}
+.goto11{
+    text-decoration: none;
+    color: black;
+}
+
+.title4{
+    border: none;
+    background-color: orange;
+    margin-bottom: 0px;
+    color: black;
+    text-decoration: none;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 50px;
+    display: block;
+}
+.kk{
+    display: inline;
+}
+.komo{
+    display: flex;
+    justify-content: center;  
+}
+.whichbook{
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.whichbook::placeholder{
+    color: black;
+}
+.r{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 20px;
+}
+.which{
+    width: 250px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.which::placeholder{
+    color: black;
+}
+
+.whic{
+    width: 280px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.whic::placeholder{
+    color: black;
+}
+.place{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between; 
+    margin-left: 450px;
+    margin-right: 470px;
+}
+
+.placeh{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between; 
+    margin-right: 410px;
+    margin-left: 340px;
+}
+
+.h{
+    width: 400px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.h::placeholder{
+    color: black;
+}
+.w{
+    width: 300px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: orange;
+}
+.w::placeholder{
+    color: black;
+}
+
+.komoliddin{
+    border-radius: 10px;
+    border-color: orange;
+    border-style: solid;
+    width: 50px;
+    height: 28px;
+}
+
+.komoliddin:hover{
+    cursor: pointer;
+}
+.hadicha{
+    display: flex;
+    justify-content: center;
+}
+
+.komo3{
+    display: grid;
+    grid-template-columns: 0.8fr 3fr 0.7fr;
+}
