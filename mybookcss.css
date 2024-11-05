@@ -874,6 +874,7 @@ body{background-color: orange;}
     border-radius: 10px;
     border-style: solid;
     border-color: orange;
+    margin-right: 30px
 }
 .whic::placeholder{
     color: black;
@@ -881,17 +882,11 @@ body{background-color: orange;}
 .place{
     display: flex;
     justify-content: center;
-    justify-content: space-between; 
-    margin-left: 450px;
-    margin-right: 470px;
 }
 
 .placeh{
     display: flex;
     justify-content: center;
-    justify-content: space-between; 
-    margin-right: 410px;
-    margin-left: 340px;
 }
 
 .h{
@@ -900,6 +895,7 @@ body{background-color: orange;}
     border-radius: 10px;
     border-style: solid;
     border-color: orange;
+    margin-right: 30px;
 }
 .h::placeholder{
     color: black;
